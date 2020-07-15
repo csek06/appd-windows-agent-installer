@@ -11,7 +11,7 @@ Modify these files if you need to change anything additional outside of configs.
  AppDynamics\machineagent\monitors\analytics-agent\conf\analytics-agent.properties
  AppDynamics\machineagent\conf\controller-info.xml
 
-## Exectuion
+## Execution
 
 Right-click Installer.bat 'Run as Administrator'
 
