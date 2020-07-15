@@ -1,4 +1,4 @@
-# AppDynamics Agent Installer AIO Standalone
+# AppDynamics Windows Agent Installer AIO Standalone
 
 What you should do
 Modify This File
