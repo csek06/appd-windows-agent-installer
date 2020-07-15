@@ -1,5 +1,12 @@
 # AppDynamics Windows Agent Installer AIO Standalone
 
+## What this Does
+
+- Downloads Java Agent
+- Downloads / Installs .NET Agent
+- Downloads / Installs Machine Agent with Analytics Enabled
+- Downloads / Installs Network Agent
+
 ## What you should do
 
 Modify This File
