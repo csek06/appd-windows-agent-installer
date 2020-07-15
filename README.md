@@ -1,6 +1,7 @@
 # AppDynamics Windows Agent Installer AIO Standalone
 
-What you should do
+## What you should do
+
 Modify This File
  .\configs.ini
 
@@ -10,8 +11,9 @@ Modify these files if you need to change anything additional outside of configs.
  AppDynamics\machineagent\monitors\analytics-agent\conf\analytics-agent.properties
  AppDynamics\machineagent\conf\controller-info.xml
 
-Exectuion
- Right-click Installer.bat 'Run as Administrator'
+## Exectuion
+
+Right-click Installer.bat 'Run as Administrator'
 
 NOTE - Machine Agent will be copied to C:\Program Files\AppDynamics\machineagent where all other installations are defaulted.
 NOTE - Java Agent will be copied to C:\Program Files\AppDynamics\javaagent where all other installations are defaulted
